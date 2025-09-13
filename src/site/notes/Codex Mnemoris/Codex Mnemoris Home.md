@@ -14,7 +14,7 @@
 ## Compedium
 
 
-- **[[Codex Mnemoris/Characters/Characters\|Characters]]**
+- **Characters**
 	- [[Codex Mnemoris/Characters/A Hahmo\|A Hahmo]]
 	- [[Codex Mnemoris/Characters/L Hahmo\|L Hahmo]]
 	- [[Codex Mnemoris/Characters/M Hahmo\|M Hahmo]]
@@ -22,9 +22,16 @@
 	- [[Codex Mnemoris/Characters/S Hahmo\|S Hahmo]]
 - [[Codex Mnemoris/Codex Mnemoris Home\|Codex Mnemoris Home]]
 - **Factions**
+	- [[Codex Mnemoris/Factions/Atlas Inc.\|Atlas Inc.]]
 	- [[Codex Mnemoris/Factions/Bloom Index\|Bloom Index]]
+	- [[Codex Mnemoris/Factions/Dripline Dropouts\|Dripline Dropouts]]
 	- [[Codex Mnemoris/Factions/Everhome Co.\|Everhome Co.]]
+	- [[Codex Mnemoris/Factions/Junkjawz\|Junkjawz]]
+	- [[Codex Mnemoris/Factions/Low-Bridge Pride\|Low-Bridge Pride]]
+	- [[Codex Mnemoris/Factions/The Elders\|The Elders]]
+	- [[Codex Mnemoris/Factions/Vollstadt Universal\|Vollstadt Universal]]
 - **Locations**
+	- [[Codex Mnemoris/Locations/The Favelas\|The Favelas]]
 - **[[Codex Mnemoris/Stories/Stories\|Stories]]**
 	- [[Codex Mnemoris/Stories/Downtown Dealmakers\|Downtown Dealmakers]]
 	- [[Codex Mnemoris/Stories/Life in the Favelas\|Life in the Favelas]]
@@ -46,7 +53,7 @@
 
 
 Compendium:
-- [[Codex Mnemoris/Characters/Characters\|Characters]]
+- [[Characters\|Characters]]
 - [[Factions\|Factions]]
 - [[Locations\|Locations]]
 - [[Codex Mnemoris/Stories/Stories\|Stories]]

@@ -10,5 +10,5 @@
 ### Corporations:
 [[Codex Mnemoris/Factions/Bloom Index\|Bloom Index]]
 [[Codex Mnemoris/Factions/Everhome Co.\|Everhome Co.]]
-[[00 Encounters/Atlas Inc.\|Atlas Inc.]]
-[[00 Encounters/Vollstadt Universal\|Vollstadt Universal]] (VSU)
+[[Codex Mnemoris/Factions/Atlas Inc.\|Atlas Inc.]]
+[[Codex Mnemoris/Factions/Vollstadt Universal\|Vollstadt Universal]] (VSU)

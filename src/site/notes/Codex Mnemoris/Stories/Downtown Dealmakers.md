@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/codex-mnemoris/stories/downtown-dealmakers/","tags":["#PKM","#Atlantis"],"created":"2025-09-02T10:30:59.573+03:00","updated":"2025-09-13T15:15:22.794+03:00"}
+{"dg-publish":true,"permalink":"/codex-mnemoris/stories/downtown-dealmakers/","tags":["#PKM","#Atlantis"],"created":"2025-09-02T10:30:59.573+03:00","updated":"2025-09-13T15:30:13.019+03:00"}
 ---
 
 ## Downtown Dealmakers
 
-> I thought I knew what wealth looked like. But Downtown makes gold look cheap. The Spires are towers of obsidian and glass, stretching so high that the tips pierce the sky. Streets so clean you could eat off them, but nobody would - the food here is too expensive.
+> I thought I knew what wealth looked like. But [[Downtown\|Downtown]] makes gold look cheap. [[70-79 Atlantis/72 Locations/The Spires\|The Spires]] are towers of obsidian and glass, stretching so high that the tips pierce the sky. Streets so clean you could eat off them, but nobody would - the food here is too expensive.
 > 
 > Every lobby smells the same: ozone and perfume. Statues turn their heads as you walk past armed guards in every corner, everywhere once you know where to look.. The clerks behind the counters don’t look at you, not really. They look what you wear, who you perresent. As if calculating what you’re worth and how much it will cost to deal with you. Time is money.
 > 
