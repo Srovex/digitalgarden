@@ -14,15 +14,23 @@
 ## Compedium
 
 
+- **[[Codex Mnemoris/Characters/Characters\|Characters]]**
+	- [[Codex Mnemoris/Characters/A Hahmo\|A Hahmo]]
+	- [[Codex Mnemoris/Characters/L Hahmo\|L Hahmo]]
+	- [[Codex Mnemoris/Characters/M Hahmo\|M Hahmo]]
+	- [[Codex Mnemoris/Characters/N Hahmo\|N Hahmo]]
+	- [[Codex Mnemoris/Characters/S Hahmo\|S Hahmo]]
 - [[Codex Mnemoris/Codex Mnemoris Home\|Codex Mnemoris Home]]
-- [[Codex Mnemoris/Downtown Dealmakers\|Downtown Dealmakers]]
-- [[Codex Mnemoris/Life in the Favelas\|Life in the Favelas]]
-- [[Codex Mnemoris/Stories\|Stories]]
-- [[Codex Mnemoris/The Bishop’s Blessing\|The Bishop’s Blessing]]
-- [[Codex Mnemoris/The Districts of Atlantis\|The Districts of Atlantis]]
-- [[Codex Mnemoris/The Religions of Atlantis\|The Religions of Atlantis]]
-- [[Codex Mnemoris/The Skyline\|The Skyline]]
-- [[Codex Mnemoris/The Technology of Atlantis\|The Technology of Atlantis]]
+- **Factions**
+- **Locations**
+- **[[Codex Mnemoris/Stories/Stories\|Stories]]**
+	- [[Codex Mnemoris/Stories/Downtown Dealmakers\|Downtown Dealmakers]]
+	- [[Codex Mnemoris/Stories/Life in the Favelas\|Life in the Favelas]]
+	- [[Codex Mnemoris/Stories/The Bishop’s Blessing\|The Bishop’s Blessing]]
+	- [[Codex Mnemoris/Stories/The Districts of Atlantis\|The Districts of Atlantis]]
+	- [[Codex Mnemoris/Stories/The Religions of Atlantis\|The Religions of Atlantis]]
+	- [[Codex Mnemoris/Stories/The Skyline\|The Skyline]]
+	- [[Codex Mnemoris/Stories/The Technology of Atlantis\|The Technology of Atlantis]]
 
 
 
@@ -34,7 +42,7 @@
 
 
 Compendium:
-- [[Characters\|Characters]]
+- [[Codex Mnemoris/Characters/Characters\|Characters]]
 - [[Factions\|Factions]]
 - [[Locations\|Locations]]
-- [[Codex Mnemoris/Stories\|Stories]]
+- [[Codex Mnemoris/Stories/Stories\|Stories]]
