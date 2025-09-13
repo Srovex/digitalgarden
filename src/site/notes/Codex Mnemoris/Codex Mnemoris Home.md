@@ -22,6 +22,8 @@
 	- [[Codex Mnemoris/Characters/S Hahmo\|S Hahmo]]
 - [[Codex Mnemoris/Codex Mnemoris Home\|Codex Mnemoris Home]]
 - **Factions**
+	- [[Codex Mnemoris/Factions/Bloom Index\|Bloom Index]]
+	- [[Codex Mnemoris/Factions/Everhome Co.\|Everhome Co.]]
 - **Locations**
 - **[[Codex Mnemoris/Stories/Stories\|Stories]]**
 	- [[Codex Mnemoris/Stories/Downtown Dealmakers\|Downtown Dealmakers]]
@@ -31,6 +33,8 @@
 	- [[Codex Mnemoris/Stories/The Religions of Atlantis\|The Religions of Atlantis]]
 	- [[Codex Mnemoris/Stories/The Skyline\|The Skyline]]
 	- [[Codex Mnemoris/Stories/The Technology of Atlantis\|The Technology of Atlantis]]
+- **[[Codex Mnemoris/The World/The World\|The World]]**
+	- [[Codex Mnemoris/The World/Corporations of Downtown\|Corporations of Downtown]]
 
 
 
