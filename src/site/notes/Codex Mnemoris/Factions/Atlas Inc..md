@@ -1,8 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/codex-mnemoris/factions/atlas-inc/","created":"2025-09-13T15:20:31.791+03:00","updated":"2025-09-13T15:20:52.975+03:00"}
+{"dg-publish":true,"permalink":"/codex-mnemoris/factions/atlas-inc/","created":"2025-09-13T16:23:37.980+03:00","updated":"2025-09-15T14:43:13.000+03:00"}
 ---
 
-# 🛡️ Atlas Inc.
 *“The Shield of the City.”*
 
 **Field:** Security, weapons, defense.  
@@ -13,5 +12,5 @@
 - Tied heavily to state military and mercenary contracts.
 - They produce the most advanced weapons in the world.
 - In addition to personal weapons they produce tanks, warship weaponry, airships, munition and are constantly developing and testing (often in real conflicts) their newest "toys" 
-- Logo: Atlas lifting a shield that has a skyline of Atlantis and Arcane Needle at its center.
-- ![Atlas Inc.png|300](/img/user/40-49%20Extras/Files/Atlas%20Inc.png)
+- Logo: [[Atlas\|Atlas]] lifting a shield that has a skyline of Atlantis and [[Astral Needle\|Astral Needle]] at its center.
+  ![Atlas Inc.png|300](/img/user/40-49%20Extras/Files/Atlas%20Inc.png)

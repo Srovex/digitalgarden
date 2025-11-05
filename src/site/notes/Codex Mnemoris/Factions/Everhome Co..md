@@ -1,8 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/codex-mnemoris/factions/everhome-co/","created":"2025-09-13T15:18:59.057+03:00","updated":"2025-09-13T15:19:07.658+03:00"}
+{"dg-publish":true,"permalink":"/codex-mnemoris/factions/everhome-co/","created":"2025-09-13T16:23:37.971+03:00","updated":"2025-09-13T15:52:04.000+03:00"}
 ---
 
-# 🏚️ Everhome Co.
 *“Every Family Deserves a Home.”*
 
 **Field:** Housing, infrastructure, domestic goods.  
