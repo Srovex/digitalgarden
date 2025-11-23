@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/codex-mnemoris/characters/bane/","created":"2025-09-13T16:23:37.968+03:00","updated":"2025-11-05T22:41:04.851+02:00"}
+{"dg-publish":true,"permalink":"/codex-mnemoris/characters/bane/","created":"2025-09-13T16:23:37.968+03:00","updated":"2025-11-23T18:54:14.808+02:00"}
 ---
 
 he/him
@@ -32,6 +32,6 @@ A few years before the campaign start, Bane tried to steal a shipment of [[Memor
 
 During this time he found himself attracted to an underground chemist and an contract killer, [[Codex Mnemoris/Characters/Freddie\|Freddie]], who ended up being the first contact that let Bane be fully himself. Not affording to put [[Codex Mnemoris/Characters/Freddie\|Freddie]] or his position in jeopardy he put out rules for them to not fall in love, to not end up too close to each other, not to mention work. But all of it ended up crumbling down as a relationship deep as they had cannot work without trust and mutual growth emotionally. After the breakup Bane fully realizing his true feelings towards [[Codex Mnemoris/Characters/Freddie\|Freddie]] and believing their fight and breakup must have been better in the end. As long as no one else but him would get hurt.
 
-Bunny was hired to [[Codex Mnemoris/Characters/Nymera\|Nymera]]’s gym to check out what’s happening there. The contractor had gotten suspicious about [[Codex Mnemoris/Characters/Nymera\|Nymeras]] background and wanted to learn of ‘mother’s’ plans and secrets, something to gain leverage over her. But Bunny ended up sympathizing with [[Codex Mnemoris/Characters/Nymera\|Nymera]] and decided to play his card towards her instead, protecting her secrets even with the physical pain and torture he might have gotten form it. Bane made it into [[Codex Mnemoris/Characters/Nymera\|Nymeras]] inner circle by protecting her and keeping her secrets. Bane’s most current place of living is a private room in [[Codex Mnemoris/Characters/Nymera\|Nymeras]] gym.
+Bunny was hired to [[70-79 Atlantis/75 Characters/00 PC/Nyméra - GM\|Nyméra - GM]]’s gym to check out what’s happening there. The contractor had gotten suspicious about [[70-79 Atlantis/75 Characters/00 PC/Nyméra - GM\|Nyméras]] background and wanted to learn of ‘mother’s’ plans and secrets, something to gain leverage over her. But Bunny ended up sympathizing with [[70-79 Atlantis/75 Characters/00 PC/Nyméra - GM\|Nyméra - GM]] and decided to play his card towards her instead, protecting her secrets even with the physical pain and torture he might have gotten form it. Bane made it into [[70-79 Atlantis/75 Characters/00 PC/Nyméra - GM\|Nyméra]] inner circle by protecting her and keeping her secrets. Bane’s most current place of living is a private room in [[70-79 Atlantis/75 Characters/00 PC/Nyméra - GM\|Nyméras]] gym.
 
 

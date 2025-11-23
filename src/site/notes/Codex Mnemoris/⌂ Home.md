@@ -18,11 +18,13 @@
 - **[[Codex Mnemoris/Atlantis/Atlantis\|Atlantis]]**
 	- [[Codex Mnemoris/Atlantis/Corporations of Downtown\|Corporations of Downtown]]
 - **[[Codex Mnemoris/Characters/Characters\|Characters]]**
-	- [[Codex Mnemoris/Characters/A Hahmo\|A Hahmo]]
 	- [[Codex Mnemoris/Characters/Bane\|Bane]]
-	- [[Codex Mnemoris/Characters/M Hahmo\|M Hahmo]]
-	- [[Codex Mnemoris/Characters/N Hahmo\|N Hahmo]]
-	- [[Codex Mnemoris/Characters/S Hahmo\|S Hahmo]]
+	- [[Codex Mnemoris/Characters/Freddie\|Freddie]]
+	- [[Codex Mnemoris/Characters/Jax Vindle\|Jax Vindle]]
+	- [[Codex Mnemoris/Characters/Mother Vexline\|Mother Vexline]]
+	- [[Codex Mnemoris/Characters/Nyméra\|Nyméra]]
+	- [[Codex Mnemoris/Characters/Roa\|Roa]]
+	- [[Codex Mnemoris/Characters/Sofie\|Sofie]]
 - **[[Codex Mnemoris/Factions/Factions\|Factions]]**
 	- [[Codex Mnemoris/Factions/Atlas Inc.\|Atlas Inc.]]
 	- [[Codex Mnemoris/Factions/Bloom Index\|Bloom Index]]
@@ -35,9 +37,6 @@
 - **[[Codex Mnemoris/Locations/Locations\|Locations]]**
 	- [[Codex Mnemoris/Locations/The Favelas\|The Favelas]]
 - **[[Codex Mnemoris/Stories/Stories\|Stories]]**
-	- [[70-79 Atlantis/74 Teasers and Lore/Stories and Teaser posts/The Bishop’s Blessing\|The Bishop’s Blessing]]
-	- [[70-79 Atlantis/74 Teasers and Lore/Stories and Teaser posts/The Religions of Atlantis\|The Religions of Atlantis]]
-	- [[70-79 Atlantis/74 Teasers and Lore/Stories and Teaser posts/The Technology of Atlantis\|The Technology of Atlantis]]
 
 
 
