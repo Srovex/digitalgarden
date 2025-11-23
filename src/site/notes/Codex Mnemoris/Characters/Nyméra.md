@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/codex-mnemoris/characters/nymera/","created":"2025-11-18T22:13:48.291+02:00","updated":"2025-11-23T19:23:34.596+02:00"}
+{"dg-publish":true,"permalink":"/codex-mnemoris/characters/nymera/","created":"2025-11-18T22:13:48.291+02:00","updated":"2025-11-23T19:26:55.142+02:00"}
 ---
 
 **Nyméra Darach**
@@ -59,7 +59,7 @@ The private rooms are usually reserved for Nyméra’s best fighters, but one is
 > [!reference] Ink
 > |                          |                           |
 > | ------------------------ | ------------------------- |
-> | ![[Nyméra-tat.png\|300]] | ![[Nyméra-tat2.png\|300]] |
+> | ![Nyméra-tat.png](/img/user/40-49%20Extras/Files/Nym%C3%A9ra-tat.png) | ![Nyméra-tat2.png](/img/user/40-49%20Extras/Files/Nym%C3%A9ra-tat2.png) |
 > |                          |                           |
 
 
