@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/codex-mnemoris/characters/nymera/","created":"2025-11-18T22:13:48.291+02:00","updated":"2025-11-23T19:02:43.260+02:00"}
+{"dg-publish":true,"permalink":"/codex-mnemoris/characters/nymera/","created":"2025-11-18T22:13:48.291+02:00","updated":"2025-11-23T19:06:19.624+02:00"}
 ---
 
 **Nyméra Darach**
@@ -9,7 +9,7 @@ She / Her
 - **Race:** Firbolg
 - **Age:** 40
 - **Height:** 185 cm
-- **Weight:**  / 105 kg
+- **Weight:**  105 kg
 - **Hair:** Deep dark brown, naturally wavy, sides shaved, long top tied back
 - Small drooping bovine ears, hooves
 - Heavily muscular
@@ -37,8 +37,6 @@ Nyméra grew up under Everhome roofs, in a home that smelled warm and clean, the
 ### **Life Behind the Bars**
 
 [[Ironhollow Penitentiary\|Ironhollow Penitentiary]] smelled of metal, sweat and old rain. Days blur into counts, lineups, and the same hard routines, push-ups, yard laps, quiet bargains in narrow corridors. Nyméra learned to read bodies the way others read books. When to yield, when to strike, how to survive. Her mentors were killers, debt-slaves, and a retired pit-fighter; and every lesson came the hard way. The only way to learn was to get up, again and again. There was no room for quitters, kindness or pity. Five years later, she walked out with nothing but hard-edges, a promise to even the score and the debts that were all she had left of her family.
-![Nyméra-tat.png|400](/img/user/40-49%20Extras/Files/Nym%C3%A9ra-tat.png)
-![Nyméra-tat2.png|400](/img/user/40-49%20Extras/Files/Nym%C3%A9ra-tat2.png)
 ### **Iron Fist**
 
 After she regained her freedom, her life was noise in the fight ring: roaring crowds, back-room payouts, doping needles, and blood on cheap canvas.  
@@ -57,3 +55,7 @@ Today, now nearly forty, Nyméra owns the gym, the bar, and the underground figh
 At Nyméra’s gym, people come and go. [[Codex Mnemoris/Characters/Sofie\|Sofie]], Nyméra’s girlfriend, is a regular sight—sometimes dropping off packages, sometimes just stopping by to see her. Sofie brings out a different Nyméra: easier, warmer. Just as often you’ll find [[Codex Mnemoris/Characters/Freddie\|Freddie]], Nyméra’s oldest friend - or so they claim. Some days they look more like enemies than friends, but somehow they make it work. Then there’s [[Codex Mnemoris/Characters/Roa\|Roa]], Freddie’s odd little assistant. Roa is one of Nyméra’s rare soft spots. With her Nyméra have more patience than others.
 
 The private rooms are usually reserved for Nyméra’s best fighters, but one is taken by [[Codex Mnemoris/Characters/Bane\|Bane]]. No one knows where he came from or why Nyméra lets him stay there, and she isn’t explaining.
+
+
+![Nyméra-tat.png|400](/img/user/40-49%20Extras/Files/Nym%C3%A9ra-tat.png)
+![Nyméra-tat2.png|400](/img/user/40-49%20Extras/Files/Nym%C3%A9ra-tat2.png)
