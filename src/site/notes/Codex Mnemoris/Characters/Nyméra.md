@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/codex-mnemoris/characters/nymera/","created":"2025-11-18T22:13:48.291+02:00","updated":"2025-11-23T19:06:19.624+02:00"}
+{"dg-publish":true,"permalink":"/codex-mnemoris/characters/nymera/","created":"2025-11-18T22:13:48.291+02:00","updated":"2025-11-23T19:23:34.596+02:00"}
 ---
 
 **Nyméra Darach**
@@ -56,6 +56,10 @@ At Nyméra’s gym, people come and go. [[Codex Mnemoris/Characters/Sofie\|Sofie
 
 The private rooms are usually reserved for Nyméra’s best fighters, but one is taken by [[Codex Mnemoris/Characters/Bane\|Bane]]. No one knows where he came from or why Nyméra lets him stay there, and she isn’t explaining.
 
+> [!reference] Ink
+> |                          |                           |
+> | ------------------------ | ------------------------- |
+> | ![[Nyméra-tat.png\|300]] | ![[Nyméra-tat2.png\|300]] |
+> |                          |                           |
 
-![Nyméra-tat.png|400](/img/user/40-49%20Extras/Files/Nym%C3%A9ra-tat.png)
-![Nyméra-tat2.png|400](/img/user/40-49%20Extras/Files/Nym%C3%A9ra-tat2.png)
+
