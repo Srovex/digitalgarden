@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/codex-mnemoris/factions/bloom-index/","created":"2025-09-13T16:23:37.984+03:00","updated":"2025-09-13T15:51:53.000+03:00"}
+{"dg-publish":true,"permalink":"/codex-mnemoris/factions/bloom-index/","created":"2025-09-13T16:23:37.984+03:00","updated":"2025-11-24T19:25:38.608+02:00"}
 ---
 
 *“Tomorrow’s Health, Today.”*

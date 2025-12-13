@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/codex-mnemoris/characters/jax-vindle/","created":"2025-09-13T16:23:37.983+03:00","updated":"2025-11-12T21:31:44.779+02:00"}
+{"dg-publish":true,"permalink":"/codex-mnemoris/characters/jax-vindle/","created":"2025-09-13T16:23:37.983+03:00","updated":"2025-11-24T19:24:20.555+02:00"}
 ---
 
 **Jax “Patchwire” Vindle**

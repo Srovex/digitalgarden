@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/codex-mnemoris/characters/nymera/","created":"2025-11-18T22:13:48.291+02:00","updated":"2025-11-23T19:26:55.142+02:00"}
+{"dg-publish":true,"permalink":"/codex-mnemoris/characters/nymera/","created":"2025-11-18T22:13:48.291+02:00","updated":"2025-11-24T21:03:19.523+02:00"}
 ---
 
 **Nyméra Darach**

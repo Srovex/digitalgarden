@@ -20,11 +20,13 @@
 - **[[Codex Mnemoris/Characters/Characters\|Characters]]**
 	- [[Codex Mnemoris/Characters/Bane\|Bane]]
 	- [[Codex Mnemoris/Characters/Freddie\|Freddie]]
+	- [[Codex Mnemoris/Characters/Hitch\|Hitch]]
 	- [[Codex Mnemoris/Characters/Jax Vindle\|Jax Vindle]]
 	- [[Codex Mnemoris/Characters/Mother Vexline\|Mother Vexline]]
 	- [[Codex Mnemoris/Characters/Nyméra\|Nyméra]]
 	- [[Codex Mnemoris/Characters/Roa\|Roa]]
 	- [[Codex Mnemoris/Characters/Sofie\|Sofie]]
+	- [[Codex Mnemoris/Characters/Theta\|Theta]]
 - **[[Codex Mnemoris/Factions/Factions\|Factions]]**
 	- [[Codex Mnemoris/Factions/Atlas Inc.\|Atlas Inc.]]
 	- [[Codex Mnemoris/Factions/Bloom Index\|Bloom Index]]
@@ -35,8 +37,17 @@
 	- [[Codex Mnemoris/Factions/The Elders\|The Elders]]
 	- [[Codex Mnemoris/Factions/Vollstadt Universal (VSU)\|Vollstadt Universal (VSU)]]
 - **[[Codex Mnemoris/Locations/Locations\|Locations]]**
+	- [[Codex Mnemoris/Locations/The Caldera\|The Caldera]]
 	- [[Codex Mnemoris/Locations/The Favelas\|The Favelas]]
+	- [[Codex Mnemoris/Locations/The Undercity\|The Undercity]]
 - **[[Codex Mnemoris/Stories/Stories\|Stories]]**
+	- [[Codex Mnemoris/Stories/Downtown Dealmakers\|Downtown Dealmakers]]
+	- [[Codex Mnemoris/Stories/Life in the Favelas\|Life in the Favelas]]
+	- [[Codex Mnemoris/Stories/The Bishop’s Blessing\|The Bishop’s Blessing]]
+	- [[Codex Mnemoris/Stories/The Districts of Atlantis\|The Districts of Atlantis]]
+	- [[Codex Mnemoris/Stories/The Religions of Atlantis\|The Religions of Atlantis]]
+	- [[Codex Mnemoris/Stories/The Skyline\|The Skyline]]
+	- [[Codex Mnemoris/Stories/The Technology of Atlantis\|The Technology of Atlantis]]
 
 
 
