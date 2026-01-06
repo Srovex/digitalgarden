@@ -18,7 +18,7 @@ she/her Age
 - When meeting Roa she gives innocent and curious aura.
 - Roa is really curious and tries to be happy little creature.
 
-![Roa.png](/img/user/40-49%20Extras/Files/Roa.png)
+![[Roa.png\|Roa.png]]
 
 ## Origin
 
