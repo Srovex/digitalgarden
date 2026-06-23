@@ -1,0 +1,59 @@
+{
+  "/": [
+    "Codex Mnemoris"
+  ],
+  "/Codex Mnemoris": [
+    "Atlantis",
+    "Stories",
+    "Characters",
+    "Factions",
+    "Locations",
+    "⌂ Home"
+  ],
+  "/Codex Mnemoris/Atlantis": [
+    "Atlantis",
+    "Corporations of Downtown"
+  ],
+  "/Codex Mnemoris/Stories": [
+    "Arc 1 Recap",
+    "Downtown Dealmakers",
+    "Life in the Favelas",
+    "Stories",
+    "The Bishop’s Blessing",
+    "The Districts of Atlantis",
+    "The Religions of Atlantis",
+    "The Skyline",
+    "The Technology of Atlantis"
+  ],
+  "/Codex Mnemoris/Stories/Arc 1 Recap": [
+    "Chapter 1 - Blood and Iron"
+  ],
+  "/Codex Mnemoris/Characters": [
+    "Bane",
+    "Characters",
+    "Freddie",
+    "Jax Vindle",
+    "Mother Vexline",
+    "Nyméra",
+    "Roa",
+    "Sofie",
+    "Theta"
+  ],
+  "/Codex Mnemoris/Factions": [
+    "Atlas Inc.",
+    "Bloom Index",
+    "Dripline Dropouts",
+    "Everhome Co.",
+    "Factions",
+    "Junkjawz",
+    "Low-Bridge Pride",
+    "The Elders",
+    "Vollstadt Universal (VSU)"
+  ],
+  "/Codex Mnemoris/Locations": [
+    "Locations",
+    "The Caldera",
+    "The Favelas",
+    "The Undercity"
+  ]
+}
