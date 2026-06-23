@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/codex-mnemoris/characters/freddie/","created":"2025-11-06T16:36:32.651+02:00","updated":"2025-11-24T21:33:21.706+02:00"}
+{"dg-publish":true,"permalink":"/codex-mnemoris/characters/freddie/","created":"2025-11-25T01:35:39.788+02:00","updated":"2026-06-23T15:51:25.539+03:00","dg-note-properties":{"tags":null,"aliases":null}}
 ---
 
 **Frederick Ragwinge**
@@ -35,7 +35,7 @@ During Freddie’s university years (around the age of 22) he meets a young Firb
 
 ### Hemlock & Echo
 
-After Freddie completed his studies he worked for a prestigious company for nearly a decade. It’s clear something major happened as to why Freddie no longer works for the company, but Freddie hasn’t told anyone the details of what caused his dismissal, claiming it’s just “some bureaucratic bullshit”. Since then he started his own potion store called [[Hemlock & Echo\|Hemlock & Echo]] at an abandoned metro station with a massive basement. Freddie also lives in the settlement. Most of his income isn’t from the over the counter potions he sells but from the special orders that he completes through the basement’s lab. His old university contact, [[Codex Mnemoris/Characters/Hitch\|Hitch]], now serves as his fixer, connecting Freddie with clients who need his unique mix of alchemy, stealth, and bloodcraft. Freddie tries to combine feeding on blood to his assassination gigs, so his Blood Frenzy can be dealt with without it causing harm to unwanted parties or locations.
+After Freddie completed his studies he worked for a prestigious company for nearly a decade. It’s clear something major happened as to why Freddie no longer works for the company, but Freddie hasn’t told anyone the details of what caused his dismissal, claiming it’s just “some bureaucratic bullshit”. Since then he started his own potion store called [[70-79 Atlantis/72 Locations/Hemlock & Echo 1\|Hemlock & Echo 1]] at an abandoned metro station with a massive basement. Freddie also lives in the settlement. Most of his income isn’t from the over the counter potions he sells but from the special orders that he completes through the basement’s lab. His old university contact, [[Codex Mnemoris/Characters/Hitch\|Hitch]], now serves as his fixer, connecting Freddie with clients who need his unique mix of alchemy, stealth, and bloodcraft. Freddie tries to combine feeding on blood to his assassination gigs, so his Blood Frenzy can be dealt with without it causing harm to unwanted parties or locations.
 
 ### [[Codex Mnemoris/Characters/Bane\|Bane]] aka Bunny
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/codex-mnemoris/factions/bloom-index/","created":"2025-09-13T16:23:37.984+03:00","updated":"2025-11-24T19:25:38.608+02:00"}
+{"dg-publish":true,"permalink":"/codex-mnemoris/factions/bloom-index/","created":"2025-11-24T20:43:48.394+02:00","updated":"2025-11-24T19:25:38.000+02:00","dg-note-properties":{"tags":null,"aliases":["Bloom Index's"]}}
 ---
 
 *“Tomorrow’s Health, Today.”*
@@ -13,4 +13,4 @@
 - Often accused of hoarding cures to drive prices.
 - Operate a floating botanical research life-ship at the Pier called **The Water Lily**. It's built on top of a massive turtle-whale hybrid.
 - Symbol: A blooming flower whose petals form an eye.
-    ![bloomindex.png|300](/img/user/40-49%20Extras/Files/bloomindex.png)
+    ![bloomindex.png\|300](/img/user/40-49%20Extras/Files/bloomindex.png)

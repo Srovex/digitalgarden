@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/codex-mnemoris/stories/life-in-the-favelas/","tags":["PKM","Atlantis"],"created":"2025-10-16T21:58:17.743+03:00","updated":"2025-10-13T09:16:36.000+03:00"}
+{"dg-publish":true,"permalink":"/codex-mnemoris/stories/life-in-the-favelas/","tags":["PKM","Atlantis"],"created":"2026-02-12T14:55:06.915+02:00","updated":"2026-02-12T13:37:59.000+02:00","dg-note-properties":{"tags":["PKM","Atlantis"],"aliases":null,"Content type":"Lore","image":null}}
 ---
 
 ### The Mad Lads

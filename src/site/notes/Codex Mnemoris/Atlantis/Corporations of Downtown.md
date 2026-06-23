@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/codex-mnemoris/atlantis/corporations-of-downtown/","created":"2025-09-13T16:23:37.982+03:00","updated":"2025-09-15T18:02:45.815+03:00"}
+{"dg-publish":true,"permalink":"/codex-mnemoris/atlantis/corporations-of-downtown/","created":"2025-09-15T18:54:36.828+03:00","updated":"2025-09-13T15:52:45.000+03:00","dg-note-properties":{"tags":null,"aliases":["Downtown"]}}
 ---
 
 

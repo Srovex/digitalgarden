@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/codex-mnemoris/locations/the-favelas/","created":"2025-09-13T16:23:37.976+03:00","updated":"2025-09-13T15:40:39.000+03:00"}
+{"dg-publish":true,"permalink":"/codex-mnemoris/locations/the-favelas/","created":"2025-09-13T16:18:22.520+03:00","updated":"2025-09-13T15:40:39.000+03:00","dg-note-properties":{"tags":null,"aliases":null}}
 ---
 
 # The Favelas

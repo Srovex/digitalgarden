@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/codex-mnemoris/factions/vollstadt-universal-vsu/","created":"2025-09-13T16:23:37.977+03:00","updated":"2025-09-13T15:53:18.000+03:00"}
+{"dg-publish":true,"permalink":"/codex-mnemoris/factions/vollstadt-universal-vsu/","created":"2025-09-13T16:18:21.612+03:00","updated":"2025-09-13T15:53:18.000+03:00","dg-note-properties":{"tags":null,"aliases":["VSU","Vollstadt","Vollstadt Universal"]}}
 ---
 
 *“The World. Made Here.”*
@@ -13,4 +13,4 @@
 - Corporate Neutrality Myth: Claim to be “just manufacturers,” but they fuel wars, empires, and rebellions alike. Whoever pays, they serve.
 - Arcanum Reliance: Their batteries, pylons, and conduits allow their goods to spread across the island and beyond.
 - Logo: A infinity symbol, moebius strip and a gear merged together.
-![VSU.png|300](/img/user/40-49%20Extras/Files/VSU.png)
+![VSU.png\|300](/img/user/40-49%20Extras/Files/VSU.png)

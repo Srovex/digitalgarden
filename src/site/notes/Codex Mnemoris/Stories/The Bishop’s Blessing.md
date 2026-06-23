@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/codex-mnemoris/stories/the-bishop-s-blessing/","tags":["PKM","Atlantis"],"created":"2025-10-16T21:58:17.736+03:00","updated":"2025-11-24T22:06:09.908+02:00"}
+{"dg-publish":true,"permalink":"/codex-mnemoris/stories/the-bishop-s-blessing/","tags":["PKM","Atlantis"],"created":"2026-02-12T14:55:08.267+02:00","updated":"2026-02-12T13:38:02.000+02:00","dg-note-properties":{"tags":["PKM","Atlantis"],"aliases":null,"Content type":"Lore","image":null}}
 ---
 
 > Bells thundered through the Pantheon hall as golden banners unfurled. Incense smoke poured like waves from the altars. Rows of soldiers stood in mirrored armor, halberds gleaming under painted saints. At their head, the paladin knelt with his wings folded. His sword silver and breastplate marked with runes of judgment.

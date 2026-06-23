@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/codex-mnemoris/characters/roa/","created":"2025-09-13T16:23:37.978+03:00","updated":"2025-11-30T00:24:11.782+02:00"}
+{"dg-publish":true,"permalink":"/codex-mnemoris/characters/roa/","created":"2025-11-30T02:20:53.210+02:00","updated":"2026-06-23T15:51:25.545+03:00","dg-note-properties":{"tags":null,"aliases":null}}
 ---
 
 **R04 / Roa**
@@ -30,4 +30,4 @@ One night the Roa wake up in to realize that the lab was on fire and the cell do
 
 One night different looking creature ended up wandering in her forest and Roa decided to approach them. Roa determined that this bat looking creature was stupid as it didn’t even know where to look for specific plants that were poisonous. Roa helped the bat person - [[Codex Mnemoris/Characters/Freddie\|Freddie]].
 
-[[Codex Mnemoris/Characters/Freddie\|Freddie]] and Roa made a deal that Roa will help him with the plants and around the shop and in exchange she could live in [[Hemlock & Echo\|Hemlock & Echo]]. Freddie was nice enough to let her live with him.
+[[Codex Mnemoris/Characters/Freddie\|Freddie]] and Roa made a deal that Roa will help him with the plants and around the shop and in exchange she could live in [[70-79 Atlantis/72 Locations/Hemlock & Echo 1\|Hemlock & Echo 1]]. Freddie was nice enough to let her live with him.

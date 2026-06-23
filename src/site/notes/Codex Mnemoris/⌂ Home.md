@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/codex-mnemoris/home/","tags":["gardenEntry"],"created":"2025-09-15T18:02:35.208+03:00","updated":"2025-09-15T12:29:11.000+03:00"}
+{"dg-publish":true,"permalink":"/codex-mnemoris/home/","tags":["gardenEntry"],"created":"2025-09-15T18:54:41.844+03:00","updated":"2025-09-15T12:29:11.000+03:00","dg-note-properties":{"tags":null,"aliases":null}}
 ---
 
 > Neon lights color the incense smoke that hangs above ground like fog. wet cobblestone mirror the light as hymns echo from cathedral courtyards. In the alleys, contracts are signed in blood as often as ink. Cutthroats slip between tramlines, blades hidden looking for their targets. The shadows of the corporate towers, the spires, stretch in the sunset. Their windows watching like cold gods. In Atlantis, faith, law, crime, and profit walk the same street. Sometimes hand in hand, sometimes hand in pocket and sometimes, hand on a knife handle.
@@ -14,7 +14,9 @@
 ## Compedium
 
 
-- [[Codex Mnemoris/⌂ Home\|⌂ Home]]
+
+- **Arc 1 Recap**
+	- [[Codex Mnemoris/Arc 1 Recap/Chapter 1 - Blood and Iron\|Chapter 1 - Blood and Iron]]
 - **[[Codex Mnemoris/Atlantis/Atlantis\|Atlantis]]**
 	- [[Codex Mnemoris/Atlantis/Corporations of Downtown\|Corporations of Downtown]]
 - **[[Codex Mnemoris/Characters/Characters\|Characters]]**
@@ -48,14 +50,7 @@
 	- [[Codex Mnemoris/Stories/The Religions of Atlantis\|The Religions of Atlantis]]
 	- [[Codex Mnemoris/Stories/The Skyline\|The Skyline]]
 	- [[Codex Mnemoris/Stories/The Technology of Atlantis\|The Technology of Atlantis]]
-
-
-
-
-
-
-
-
+- [[Codex Mnemoris/⌂ Home\|⌂ Home]]
 
 
 

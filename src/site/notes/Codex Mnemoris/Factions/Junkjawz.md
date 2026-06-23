@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/codex-mnemoris/factions/junkjawz/","created":"2025-09-13T16:23:37.972+03:00","updated":"2026-01-06T20:56:35.493+02:00"}
+{"dg-publish":true,"permalink":"/codex-mnemoris/factions/junkjawz/","created":"2026-01-08T01:03:20.941+02:00","updated":"2026-01-06T20:56:35.000+02:00","dg-note-properties":{"tags":null,"aliases":null}}
 ---
 
 **War-camp raiders, scrapyard engineers.** The Junkjawz rule through fear and spectacle. They cobble war-rigs from wreckage, host brutal fighting pits, and prize machines as much as muscle. Their raids into Suburbia and Downtown make them infamous.
@@ -16,5 +16,5 @@
 - 3rd Lieutenant: Harlan Pike
 
 ![goblin raiders.jpg](/img/user/40-49%20Extras/Files/goblin%20raiders.jpg)
-![goblin bomber.jpg|300](/img/user/40-49%20Extras/Files/goblin%20bomber.jpg)
+![goblin bomber.jpg\|300](/img/user/40-49%20Extras/Files/goblin%20bomber.jpg)
 ---

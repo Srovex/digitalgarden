@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/codex-mnemoris/factions/factions/","created":"2025-09-15T18:02:35.205+03:00","updated":"2025-09-15T12:31:22.000+03:00"}
+{"dg-publish":true,"permalink":"/codex-mnemoris/factions/factions/","created":"2025-09-15T18:54:39.536+03:00","updated":"2025-09-15T12:31:22.000+03:00","dg-note-properties":{"tags":null,"aliases":null}}
 ---
 
 

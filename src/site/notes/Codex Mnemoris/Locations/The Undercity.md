@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/codex-mnemoris/locations/the-undercity/","created":"2025-11-24T22:03:28.498+02:00","updated":"2025-11-24T22:05:38.999+02:00"}
+{"dg-publish":true,"permalink":"/codex-mnemoris/locations/the-undercity/","created":"2025-11-25T01:35:45.784+02:00","updated":"2025-11-24T22:05:38.000+02:00","dg-note-properties":{"tags":null,"aliases":null}}
 ---
 
 The city above lives, but the stone below remembers. Underneath are mazes of caves and cellars, where old sewers twist into half-flooded corridors and doors lead to cellars that were never built for this century. Lantern-light glints off wet stone and smeared walls. Here, black markets sprawl in hollowed chambers. Memory artists etch recollections into glass vials; whisper traders lean close, selling secrets in coded breaths. Alchemists cook powders that burn like prayer. Smugglers deal with anything. Every corner invites to go deeper, and every truth has a price.

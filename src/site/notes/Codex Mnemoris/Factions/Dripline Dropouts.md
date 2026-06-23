@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/codex-mnemoris/factions/dripline-dropouts/","created":"2025-09-13T16:23:37.979+03:00","updated":"2025-09-13T15:51:59.000+03:00"}
+{"dg-publish":true,"permalink":"/codex-mnemoris/factions/dripline-dropouts/","created":"2025-09-13T16:18:16.048+03:00","updated":"2025-09-13T15:51:59.000+03:00","dg-note-properties":{"tags":null,"aliases":null}}
 ---
 
 **River smugglers, tide-gamblers.** More of a area than an actual gang. **the Dripline** is the swampy area opposite to the downtown in the innerbay of Atlantis. Connecting the Great Lake Viridia to the ocean, the river Viridane turns into wet delta of marshes and mangrove groves. It proved impossible to build tall buildings, so instead it was filled by the shantytowns build on stilts and over the water. Masters of the swamp and shoreline, the Dropouts live on rafts, boats, and marsh huts. They deal in smuggling, black-market gambling, and river trade, always shifting with the tide. The Viridane is the lifeline of the area, and the locals call it The Low-way.

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/codex-mnemoris/stories/the-religions-of-atlantis/","tags":["PKM","Atlantis"],"created":"2025-10-16T21:58:17.739+03:00","updated":"2025-10-13T09:16:35.000+03:00"}
+{"dg-publish":true,"permalink":"/codex-mnemoris/stories/the-religions-of-atlantis/","tags":["PKM","Atlantis"],"created":"2026-02-12T14:55:09.471+02:00","updated":"2026-02-12T13:38:05.000+02:00","dg-note-properties":{"tags":["PKM","Atlantis"],"aliases":null,"Content type":"Lore","image":null}}
 ---
 
 ### The Quiet Guide

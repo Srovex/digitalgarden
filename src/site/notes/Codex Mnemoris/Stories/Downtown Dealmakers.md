@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/codex-mnemoris/stories/downtown-dealmakers/","tags":["PKM","Atlantis"],"created":"2025-10-16T21:58:17.755+03:00","updated":"2025-11-24T22:01:46.525+02:00"}
+{"dg-publish":true,"permalink":"/codex-mnemoris/stories/downtown-dealmakers/","tags":["PKM","Atlantis"],"created":"2025-11-25T01:35:46.600+02:00","updated":"2025-11-24T22:01:46.000+02:00","dg-note-properties":{"tags":["PKM","Atlantis"],"aliases":null,"Content type":"Lore","image":null}}
 ---
 
 

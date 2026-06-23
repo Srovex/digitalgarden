@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/codex-mnemoris/characters/theta/","created":"2025-11-24T19:14:13.234+02:00","updated":"2025-11-24T20:36:46.442+02:00"}
+{"dg-publish":true,"permalink":"/codex-mnemoris/characters/theta/","created":"2025-11-24T20:43:46.162+02:00","updated":"2025-11-24T20:36:46.000+02:00","dg-note-properties":{"tags":null,"aliases":null}}
 ---
 
 ![Theta.png](/img/user/40-49%20Extras/Files/Theta.png)

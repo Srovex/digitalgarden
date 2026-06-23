@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/codex-mnemoris/characters/bane/","created":"2025-09-13T16:23:37.968+03:00","updated":"2025-11-25T23:36:16.069+02:00"}
+{"dg-publish":true,"permalink":"/codex-mnemoris/characters/bane/","created":"2025-11-26T00:44:58.691+02:00","updated":"2025-11-25T23:36:16.000+02:00","dg-note-properties":{"tags":null,"aliases":null}}
 ---
 
 he/him

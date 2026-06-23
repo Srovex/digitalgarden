@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/codex-mnemoris/stories/stories/","created":"2025-09-13T16:23:37.972+03:00","updated":"2025-11-24T21:45:38.342+02:00"}
+{"dg-publish":true,"permalink":"/codex-mnemoris/stories/stories/","created":"2025-11-25T01:35:47.716+02:00","updated":"2026-06-23T22:05:39.941+03:00","dg-note-properties":{"tags":null,"aliases":null}}
 ---
 
 
