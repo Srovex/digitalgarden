@@ -3,29 +3,19 @@
     "Codex Mnemoris"
   ],
   "/Codex Mnemoris": [
+    "⌂ Home",
     "Atlantis",
-    "Stories",
+    "Arc 1 Recap",
     "Characters",
     "Factions",
     "Locations",
-    "⌂ Home"
+    "Stories"
   ],
   "/Codex Mnemoris/Atlantis": [
     "Atlantis",
     "Corporations of Downtown"
   ],
-  "/Codex Mnemoris/Stories": [
-    "Arc 1 Recap",
-    "Downtown Dealmakers",
-    "Life in the Favelas",
-    "Stories",
-    "The Bishop’s Blessing",
-    "The Districts of Atlantis",
-    "The Religions of Atlantis",
-    "The Skyline",
-    "The Technology of Atlantis"
-  ],
-  "/Codex Mnemoris/Stories/Arc 1 Recap": [
+  "/Codex Mnemoris/Arc 1 Recap": [
     "Chapter 1 - Blood and Iron"
   ],
   "/Codex Mnemoris/Characters": [
@@ -37,7 +27,8 @@
     "Nyméra",
     "Roa",
     "Sofie",
-    "Theta"
+    "Theta",
+    "Hitch"
   ],
   "/Codex Mnemoris/Factions": [
     "Atlas Inc.",
@@ -55,5 +46,15 @@
     "The Caldera",
     "The Favelas",
     "The Undercity"
+  ],
+  "/Codex Mnemoris/Stories": [
+    "Downtown Dealmakers",
+    "Life in the Favelas",
+    "Stories",
+    "The Bishop’s Blessing",
+    "The Districts of Atlantis",
+    "The Religions of Atlantis",
+    "The Skyline",
+    "The Technology of Atlantis"
   ]
 }
