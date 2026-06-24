@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/codex-mnemoris/arc-1-recap/chapter-3-the-pride-arrives/","updated":"2026-06-24T00:41:41.844+03:00","dg-note-properties":{"tags":null,"aliases":null}}
+{"dg-publish":true,"permalink":"/codex-mnemoris/arc-1-recap/chapter-3-the-pride-arrives/","updated":"2026-06-24T00:46:07.428+03:00","dg-note-properties":{"tags":null,"aliases":null}}
 ---
 
 **Previous:** [[Codex Mnemoris/Arc 1 Recap/Chapter 2 - The Pits Wake\|Chapter 2 - The Pits Wake]]
-*Session 06*
 
-Good. Writing now.
+# The Pride Arrives
+*Session 06*
 #### Earlier on the same day
 
 While the fighters were bleeding in the pits and Bane was building an identity in the crowd, something else was happening further out in the industrial zone.
@@ -171,4 +171,4 @@ They pointed at Jax. "Come with us peacefully, Specimen 3488"
 Everything stopped for the second time that night.
 
 
-**Next:** [[Codex Mnemoris/Arc 1 Recap/Chapter 4\|Chapter 4]]
+**Next:** [[Codex Mnemoris/Arc 1 Recap/Chapter 4 - Three Fires, One Night\|Chapter 4 - Three Fires, One Night]]

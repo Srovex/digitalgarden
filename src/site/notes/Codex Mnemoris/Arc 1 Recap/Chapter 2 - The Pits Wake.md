@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/codex-mnemoris/arc-1-recap/chapter-2-the-pits-wake/","updated":"2026-06-24T00:12:07.638+03:00","dg-note-properties":{"tags":null,"aliases":null}}
+{"dg-publish":true,"permalink":"/codex-mnemoris/arc-1-recap/chapter-2-the-pits-wake/","updated":"2026-06-24T15:07:42.234+03:00","dg-note-properties":{"tags":null,"aliases":null}}
 ---
 
 **Previous:** [[Codex Mnemoris/Arc 1 Recap/Chapter 1 - Blood and Iron\|Chapter 1 - Blood and Iron]]
 
-# Welcome to the Pits
+# The Pits Wake
 *Sessions 01–05*
 
 Morning in the Junkjaw camp arrived without ceremony. Light came through broken windows in long diagonal bars and lit up dust that had no intention of settling. The old Peepo Cola's factory floor was already loud before most of the city had finished sleeping. Bet collectors moved through the crowd checking slips. A smell of fried food came from somewhere near the east entrance and mixed badly with everything else. The place had the atmosphere of a festival run by people who did not care if you enjoyed yourself.
